@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Police Officer",
+    "price": 250,
+    "labels": ["On wheels", "Outdoor", "Art"],
+    "inStock": false,
+    "createdAt": "2022-03-16T19:31:14.417Z",
+    "reviews": []
+  },
+  {
+    "name": "Doll",
+    "price": 150,
+    "labels": ["On wheels", "Doll"],
+    "inStock": true,
+    "createdAt": "2022-03-16T18:35:46.672Z",
+    "reviews": [
+      {
+        "txt": "All the color of television burn more or less the story",
+        "createdAt": "2022-03-16T18:35:46.672Z"
+      },
+      {
+        "txt": "happens and as generally a dead channel All",
+        "createdAt": "2022-03-16T18:35:46.672Z"
+      },
+      {
+        "txt": "had and . was It",
+        "createdAt": "2022-03-16T18:35:46.672Z"
+      }
+    ]
+  },
+  {
+    "name": "Truck",
+    "price": 80,
+    "labels": ["Outdoor", "Baby"],
+    "inStock": true,
+    "createdAt": "2022-03-16T18:35:46.672Z",
+    "reviews": [
+      {
+        "txt": "was bit by bit The sky as generally was",
+        "createdAt": "2022-03-16T18:35:46.672Z"
+      },
+      {
+        "txt": "more or less . as generally bit by bit it",
+        "createdAt": "2022-03-16T18:35:46.672Z"
+      },
+      {
+        "txt": "above each time was above happens",
+        "createdAt": "2022-03-16T18:35:46.672Z"
+      }
+    ]
+  },
+  {
+    "name": "Cards",
+    "price": 150,
+    "labels": ["Puzzle", "Art"],
+    "inStock": true,
+    "createdAt": "2022-03-16T18:35:46.672Z",
+    "reviews": [
+      {
+        "txt": "it the port above had this happened",
+        "createdAt": "2022-03-16T18:35:46.672Z"
+      },
+      {
+        "txt": "and The sky . the port a different story",
+        "createdAt": "2022-03-16T18:35:46.672Z"
+      },
+      {
+        "txt": "was All was had was",
+        "createdAt": "2022-03-16T18:35:46.672Z"
+      }
+    ]
+  }
+]

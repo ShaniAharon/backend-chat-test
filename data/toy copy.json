@@ -1,0 +1,77 @@
+[
+  {
+    "_id": "zXLis",
+    "name": "Doll",
+    "price": 150,
+    "labels": ["On wheels", "Doll"],
+    "inStock": true,
+    "createdAt": "2022-03-16T18:35:46.672Z",
+    "reviews": [
+      {
+        "_id": "r8tSd",
+        "txt": "All the color of television burn more or less the story",
+        "createdAt": "2022-03-16T18:35:46.672Z"
+      },
+      {
+        "_id": "v4uZL",
+        "txt": "happens and as generally a dead channel All",
+        "createdAt": "2022-03-16T18:35:46.672Z"
+      },
+      {
+        "_id": "c5Frt",
+        "txt": "had and . was It",
+        "createdAt": "2022-03-16T18:35:46.672Z"
+      }
+    ]
+  },
+  {
+    "_id": "l8pd0",
+    "name": "Truck",
+    "price": 80,
+    "labels": ["Outdoor", "Baby"],
+    "inStock": true,
+    "createdAt": "2022-03-16T18:35:46.672Z",
+    "reviews": [
+      {
+        "_id": "pnm3b",
+        "txt": "was bit by bit The sky as generally was",
+        "createdAt": "2022-03-16T18:35:46.672Z"
+      },
+      {
+        "_id": "fNFSz",
+        "txt": "more or less . as generally bit by bit it",
+        "createdAt": "2022-03-16T18:35:46.672Z"
+      },
+      {
+        "_id": "NfMS4",
+        "txt": "above each time was above happens",
+        "createdAt": "2022-03-16T18:35:46.672Z"
+      }
+    ]
+  },
+  {
+    "_id": "Yiped",
+    "name": "Cards",
+    "price": 150,
+    "labels": ["Puzzle", "Art"],
+    "inStock": true,
+    "createdAt": "2022-03-16T18:35:46.672Z",
+    "reviews": [
+      {
+        "_id": "it0j1",
+        "txt": "it the port above had this happened",
+        "createdAt": "2022-03-16T18:35:46.672Z"
+      },
+      {
+        "_id": "LQTOW",
+        "txt": "and The sky . the port a different story",
+        "createdAt": "2022-03-16T18:35:46.672Z"
+      },
+      {
+        "_id": "i6c44",
+        "txt": "was All was had was",
+        "createdAt": "2022-03-16T18:35:46.672Z"
+      }
+    ]
+  }
+]
