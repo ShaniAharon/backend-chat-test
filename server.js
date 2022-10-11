@@ -51,7 +51,7 @@ app.get('/**', (req, res) => {
 
 const logger = require('./services/logger.service')
 const port = process.env.PORT || 3030
-app.listen(port, () => {
-  console.log(`App listening on port ${port}!`)
+http.listen(port, () => {
+  console.log('p', process.env.NODE_ENV)
   logger.info('Server is running on port: ' + port)
-});
+})
